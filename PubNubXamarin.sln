@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubNubXamarin", "PubNubXamarin\PubNubXamarin.csproj", "{5A1E6101-32C4-4E6E-A630-6A551C674B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubnubMessaging.Core", "PubnubMessaging\PubnubMessaging.Core.csproj", "{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Release|iPhone.Build.0 = Release|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{5043AC0F-9885-44F7-8ECC-4BF55B5C8EC5}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Release|iPhone.Build.0 = Release|iPhone
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5A1E6101-32C4-4E6E-A630-6A551C674B04}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
